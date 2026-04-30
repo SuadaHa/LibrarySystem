@@ -14,7 +14,6 @@ public class Main {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLayout(new GridLayout(7, 1));
 
-        // Buttons
         JButton addBookBtn = new JButton("Add Book");
         JButton viewBooksBtn = new JButton("View Books");
         JButton deleteBookBtn = new JButton("Delete Book");
